@@ -20,9 +20,9 @@ datasets/
 
 └── val
 
-    ├── images
+        ├── images
     
-    └── masks
+        └── masks
 
 
 
