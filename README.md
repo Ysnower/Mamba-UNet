@@ -3,7 +3,7 @@ UltraLight VM-UNet
 ## *1.NOTE: The unofficial code for "UltraLight VM-UNet.*
 
 Support single gpu training
-The environment installation procedure can be followed by [VM-UNet](https://github.com/JCruan519/VM-UNet), or by following the steps below:</br>
+The environment</br>
 ```
 conda create -n vmunet python=3.8
 conda activate vmunet
