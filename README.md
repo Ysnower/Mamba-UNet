@@ -18,6 +18,8 @@ pixel dots for target))
 ├── images
 └── masks
 
+
+
 2.config_setting.visual_imgs=True,wirte 10 images to the folder and ensure that the label after data augmentation is correct.
 Data augmentation may cause label errors, so check it!
 
