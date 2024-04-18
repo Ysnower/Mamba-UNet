@@ -19,7 +19,6 @@ datasets/
 │   └── masks
 
 └── val
-
     ├── images
 
     └── masks
