@@ -10,13 +10,13 @@ Support single gpu training
 image. The mask is an 8-bit png image. (0 pixel dots for background, 255
 pixel dots for target))
 
-./datasets
+datasets/
 ├── train
 │   ├── images
 │   └── masks
 └── val
-├── images
-└── masks
+    ├── images
+    └── masks
 
 
 
