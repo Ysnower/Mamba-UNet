@@ -14,17 +14,13 @@ datasets/
 
 ├── train
 
-
 │   ├── images
 
-
 │   └── masks
-
 
 └── val
 
     ├── images
-
 
     └── masks
 
